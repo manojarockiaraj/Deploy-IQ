@@ -1,3 +1,14 @@
+Steps for local
+
+bun --version
+bun install --frozen-lockfile
+npm run build
+
+after success 
+
+npm run dev
+
+
 # Resource Navigator
 
 here is the tech stack for resource management portal and database should be indexingDB  I would redesign the workflow like this:
